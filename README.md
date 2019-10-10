@@ -1,2 +1,2 @@
-# LABORATOIRE-Virtuel-Informatique-UCAD
+# Laboratoire-Virtuel-Informatique-UCAD
 LVI
